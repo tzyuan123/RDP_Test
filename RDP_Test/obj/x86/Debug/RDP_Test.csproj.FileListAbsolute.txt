@@ -1,0 +1,14 @@
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\bin\Debug\RDP_Test.exe
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\bin\Debug\RDP_Test.pdb
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\bin\Debug\Interop.MSTSCLib.dll
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\bin\Debug\AxInterop.MSTSCLib.dll
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\RDP_Test.Form1.resources
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\RDP_Test.Properties.Resources.resources
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\RDP_Test.csproj.GenerateResource.Cache
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\RDP_Test.exe
+c:\users\tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\RDP_Test.pdb
+C:\Users\Tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\bin\Debug\AxMSTSCLib.dll
+C:\Users\Tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\RDP_Test.csprojResolveAssemblyReference.cache
+C:\Users\Tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\Interop.MSTSCLib.dll
+C:\Users\Tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Tzyuan123\documents\visual studio 2010\Projects\RDP_Test\RDP_Test\obj\x86\Debug\RDP_Test.csproj.ResolveComReference.cache
